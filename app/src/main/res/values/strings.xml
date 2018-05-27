@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Marcador Avanzado</string>
+    <string name="local">0</string>
+    <string name="visitante">0</string>
+    <string name="local1">Dorsal 1</string>
+    <string name="local2">Dorsal 2</string>
+    <string name="local3">Dorsal 3</string>
+    <string name="local4">Dorsal 4</string>
+    <string name="local5">Dorsal 5</string>
+    <string name="vis1">Dorsal 1</string>
+    <string name="vis2">Dorsal 2</string>
+    <string name="vis3">Dorsal 3</string>
+    <string name="vis4">Dorsal 4</string>
+    <string name="vis5">Dorsal 5</string>
+    <string name="plocal1">0</string>
+    <string name="plocal2">0</string>
+    <string name="plocal3">0</string>
+    <string name="plocal4">0</string>
+    <string name="plocal5">0</string>
+    <string name="pvis1">0</string>
+    <string name="pvis2">0</string>
+    <string name="pvis3">0</string>
+    <string name="pvis4">0</string>
+    <string name="pvis5">0</string>
+    <string name="borrar">Resetear</string>
+    <string name="quitar">Borrar Ult</string>
+    <string name="mostrar">Ver estadísticas</string>
+    <string name="nombreLocal">Equipo Local</string>
+    <string name="nombreVisitante">Equipo Visitante</string>
+    <string name="start">Jugar</string>
+    <string name="stats">Estadísticas</string>
+    <string name="volvera">Atras</string>
+    <string-array name="tiro">
+        <item>Tiro libre</item>
+        <item>Doble</item>
+        <item>Triple</item>
+    </string-array>
+</resources>
